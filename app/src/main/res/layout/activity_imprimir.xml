@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#F1DBF1"
     tools:context=".ActivityImprimir">
 
     <TextView
@@ -59,7 +60,7 @@
         android:id="@+id/tvCostoServicio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Costo Servicio:"
+        android:text="Costo servicio:"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.056"
@@ -95,7 +96,7 @@
         android:id="@+id/tvTotalPagar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Total Pagar:"
+        android:text="Total pagar:"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.056"
