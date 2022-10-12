@@ -1,4 +1,4 @@
-package com.example.tarea02;
+package com.example.tarea06;
 
 import android.content.Context;
 
